@@ -77,6 +77,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/image3"
+        android:gravity="center"
         android:text="Think programming is hard? Not sure where to start? Do you want to learn how to develop? If this is all about you, then you can safely come to the recruitment at the coolest educational programming club Neolabs. We will show you everything, tell you everything and grow you into a professional. Let's to coding!"
         android:paddingTop="26dp"
         android:paddingLeft="56dp"
